@@ -14,4 +14,4 @@
 Sub_info = script-name=Sub_info,update-interval=3600
 
 [Script]
-Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fwww.nysub.cc%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D106c4d2c30c0dea4cbfdf226412ba9fa&reset_day=3&title=Kaiser🪅&icon=bolt.heart.badge.icloud=#007aff
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fwww.nysub.cc%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D106c4d2c30c0dea4cbfdf226412ba9fa&reset_day=3&title=Kaiser🪅&icon=externaldrive.fill.badge.icloud=#007aff
